@@ -2,6 +2,8 @@
 
 This repository contains the foundational code and architectural guidance for developing an advanced AI-powered NSFW chatbot designed for adult-oriented conversational experiences. It focuses on ethical, secure, and customizable development for age-restricted environments.
 
+We have already developed a cutting-edge NSFW AI Chatbot that delivers an ultra-realistic conversational experience tailored for adult users. The live demo is available via **TripleMinds.co**, showcasing the chatbot's natural language depth and emotional responsiveness. Built using advanced AI and ML models, the system integrates React for a sleek frontend along with secure, scalable backend infrastructure. It includes mood-based dialogue, context retention, and customizable personalities. This repository provides the foundational tools and architecture to replicate or extend such a solution responsibly.
+
 ## 🚀 Key Features
 - 🔞 Role-based NSFW dialogue generation
 - 🎭 Personality simulation and mood toggling
